@@ -1,1 +1,2 @@
 example_hwid
+NXGNTSI01580510B3F7600
